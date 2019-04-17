@@ -1,3 +1,5 @@
-# socket
-Socket em Python para a disciplina de Segurança da informação.
-Cifra a mensagem utilizando a biblioteca cryptography, envia e decifra a mensagem na outra ponta.
+# INSTRUÇÕES
+1 Baixar o arquivo zip
+2 Executar o servidor.py e o cliente.py
+obs: O arquivo key.key é a chave "secreta" de criptografia, deve estar na mesma pasta dos dois aquivos .py
+
